@@ -1,0 +1,34 @@
+C:\Users\Yusuf Furkan Umutlu\Desktop\A Star\A Star\bin\Debug\net8.0-windows\A Star.exe
+C:\Users\Yusuf Furkan Umutlu\Desktop\A Star\A Star\bin\Debug\net8.0-windows\A Star.deps.json
+C:\Users\Yusuf Furkan Umutlu\Desktop\A Star\A Star\bin\Debug\net8.0-windows\A Star.runtimeconfig.json
+C:\Users\Yusuf Furkan Umutlu\Desktop\A Star\A Star\bin\Debug\net8.0-windows\A Star.dll
+C:\Users\Yusuf Furkan Umutlu\Desktop\A Star\A Star\bin\Debug\net8.0-windows\A Star.pdb
+C:\Users\Yusuf Furkan Umutlu\Desktop\A Star\A Star\obj\Debug\net8.0-windows\A_Star.Form1.resources
+C:\Users\Yusuf Furkan Umutlu\Desktop\A Star\A Star\obj\Debug\net8.0-windows\A_Star.Sliding_Puzzle.resources
+C:\Users\Yusuf Furkan Umutlu\Desktop\A Star\A Star\obj\Debug\net8.0-windows\A Star.csproj.GenerateResource.cache
+C:\Users\Yusuf Furkan Umutlu\Desktop\A Star\A Star\obj\Debug\net8.0-windows\A Star.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Yusuf Furkan Umutlu\Desktop\A Star\A Star\obj\Debug\net8.0-windows\A Star.AssemblyInfoInputs.cache
+C:\Users\Yusuf Furkan Umutlu\Desktop\A Star\A Star\obj\Debug\net8.0-windows\A Star.AssemblyInfo.cs
+C:\Users\Yusuf Furkan Umutlu\Desktop\A Star\A Star\obj\Debug\net8.0-windows\A Star.csproj.CoreCompileInputs.cache
+C:\Users\Yusuf Furkan Umutlu\Desktop\A Star\A Star\obj\Debug\net8.0-windows\A Star.dll
+C:\Users\Yusuf Furkan Umutlu\Desktop\A Star\A Star\obj\Debug\net8.0-windows\refint\A Star.dll
+C:\Users\Yusuf Furkan Umutlu\Desktop\A Star\A Star\obj\Debug\net8.0-windows\A Star.pdb
+C:\Users\Yusuf Furkan Umutlu\Desktop\A Star\A Star\obj\Debug\net8.0-windows\A Star.genruntimeconfig.cache
+C:\Users\Yusuf Furkan Umutlu\Desktop\A Star\A Star\obj\Debug\net8.0-windows\ref\A Star.dll
+C:\Users\Yusuf Furkan Umutlu\Desktop\Yapay Zeka\A Star\A Star\bin\Debug\net8.0-windows\A Star.exe
+C:\Users\Yusuf Furkan Umutlu\Desktop\Yapay Zeka\A Star\A Star\bin\Debug\net8.0-windows\A Star.deps.json
+C:\Users\Yusuf Furkan Umutlu\Desktop\Yapay Zeka\A Star\A Star\bin\Debug\net8.0-windows\A Star.runtimeconfig.json
+C:\Users\Yusuf Furkan Umutlu\Desktop\Yapay Zeka\A Star\A Star\bin\Debug\net8.0-windows\A Star.dll
+C:\Users\Yusuf Furkan Umutlu\Desktop\Yapay Zeka\A Star\A Star\bin\Debug\net8.0-windows\A Star.pdb
+C:\Users\Yusuf Furkan Umutlu\Desktop\Yapay Zeka\A Star\A Star\obj\Debug\net8.0-windows\A_Star.Form1.resources
+C:\Users\Yusuf Furkan Umutlu\Desktop\Yapay Zeka\A Star\A Star\obj\Debug\net8.0-windows\A_Star.Sliding_Puzzle.resources
+C:\Users\Yusuf Furkan Umutlu\Desktop\Yapay Zeka\A Star\A Star\obj\Debug\net8.0-windows\A Star.csproj.GenerateResource.cache
+C:\Users\Yusuf Furkan Umutlu\Desktop\Yapay Zeka\A Star\A Star\obj\Debug\net8.0-windows\A Star.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Yusuf Furkan Umutlu\Desktop\Yapay Zeka\A Star\A Star\obj\Debug\net8.0-windows\A Star.AssemblyInfoInputs.cache
+C:\Users\Yusuf Furkan Umutlu\Desktop\Yapay Zeka\A Star\A Star\obj\Debug\net8.0-windows\A Star.AssemblyInfo.cs
+C:\Users\Yusuf Furkan Umutlu\Desktop\Yapay Zeka\A Star\A Star\obj\Debug\net8.0-windows\A Star.csproj.CoreCompileInputs.cache
+C:\Users\Yusuf Furkan Umutlu\Desktop\Yapay Zeka\A Star\A Star\obj\Debug\net8.0-windows\A Star.dll
+C:\Users\Yusuf Furkan Umutlu\Desktop\Yapay Zeka\A Star\A Star\obj\Debug\net8.0-windows\refint\A Star.dll
+C:\Users\Yusuf Furkan Umutlu\Desktop\Yapay Zeka\A Star\A Star\obj\Debug\net8.0-windows\A Star.pdb
+C:\Users\Yusuf Furkan Umutlu\Desktop\Yapay Zeka\A Star\A Star\obj\Debug\net8.0-windows\A Star.genruntimeconfig.cache
+C:\Users\Yusuf Furkan Umutlu\Desktop\Yapay Zeka\A Star\A Star\obj\Debug\net8.0-windows\ref\A Star.dll
