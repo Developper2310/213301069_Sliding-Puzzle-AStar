@@ -15,13 +15,13 @@ Kapalı liste, A* gibi arama algoritmalarında kullanılan bir veri yapısıdır
 # Node yapısı
 Node yapısı, A* algoritmasında kullanılan ve her bir düğümü temsil eden önemli bir veri yapısıdır. Her Node, bulmacanın belirli bir durumunu veya bir adımını içerir. Bir Node'un genellikle şu özellikleri bulunur:
 
-Durum (State): Node'un temsil ettiği bulmacanın belirli bir durumu. Bu durum, bulmacanın hangi konumda veya düzeninde olduğunu gösterir. Örneğin, bir kaydırma bulmacasında, durum mevcut taşların düzenini içerir.
+Durum (State): Node'un temsil ettiği bulmacanın belirli bir durumu. Bu durum, bulmacanın hangi konumda veya düzeninde olduğunu gösterir. Sliding puzzle bulmacasında, durum mevcut taşların düzenidir.
 
-Maliyetler (Costs): Node'un bulunma maliyeti ve hedefe olan tahmini maliyeti. Bu maliyetler, A* algoritmasının en uygun yolu bulmasına yardımcı olur. Genellikle G maliyeti (başlangıçtan bu Node'a olan toplam adım sayısı) ve H maliyeti (bu Node'dan hedefe olan tahmini adım sayısı) olarak ifade edilir.
+Maliyetler (Costs): Node'un bulunma maliyeti ve hedefe olan tahmini maliyeti. Bu maliyetler, A* algoritmasının en uygun yolu bulmasına yardımcı olur. Bu algoritmada 2 önemli maliyet vardır Bunlar: G maliyeti (başlangıçtan bu Node'a olan toplam adım sayısı) ve H maliyetidir (bu Node'dan hedefe olan tahmini adım sayısı) .
 
 Toplam Maliyet (Total Cost): Node'un toplam maliyeti, G ve H maliyetlerinin toplamıdır. Bu maliyet, A* algoritmasının her adımda en uygun düğümü seçmesine yardımcı olur.
 
-Ebeveyn (Parent): Node'un hangi düğümden türetildiğini veya hangi adımdan geldiğini gösteren bir referans. Bu özellik, A* algoritmasının çözüm yolunu oluştururken geriye doğru izleme yapılmasına olanak tanır.
+Ebeveyn (Parent): Node'un hangi düğümden türetildiğini veya hangi adımdan geldiğini gösteren referanstır. Bu özellik, A* algoritmasının çözüm yolunu oluştururken geriye doğru izleme yapılmasını sağlayarak gereksiz hesaplamaların önüne geçmemizi sağlar.
 
 # Kullanım Adımları
 Başlangıç ve Hedef Durumları Belirleme: İlk olarak, başlangıç ve hedef durumlarını belirlemelisiniz. Bu durumlar, matris formunda girilir.
@@ -53,7 +53,7 @@ Bu fonksiyon, başlangıç durumundan hedef duruma giden yolu temsil eden bir li
 # Sonuç bulunamaması ve Optimizasyon 
 Bazı çözümler algoritmanın hesaplaması için çok zor ve zaman alıcı olabilir. Özellikle 3x3 boyutunun üzerindeki matrislerde düğüm sayıları milyonları geçebilir. Bunun için k değişkeni düğüm sayısını takip ederek 150.000 düğüm üzerine çıkılırsa başarısız bir sonuç döndürür ve fonksiyonu sonlandırır.  
 
-Bu proje en hılı A* algoritması değildir. Uygulamanın daha hızlı çözüme ulaşması için özncelikli kuyruk gibi özellikler ekleyerek kodu optimize edebilirsiniz.
+Bu proje en hızlı A* algoritması değildir. Uygulamanın daha hızlı çözüme ulaşması için özncelikli kuyruk gibi özellikler ekleyerek kodu optimize edebilirsiniz.
 
 # AStar Nasıl İlerler ve Düğüm Yapısı Nasıl Görünür
 Çalışma şeklini daha iyi anlayabilmeniz için bu fotoğrafları ekliyorum:
